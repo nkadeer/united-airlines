@@ -17,6 +17,7 @@ public class Package_Tests {
         packagePage.getPackageTab_element().click();
         Thread.sleep(1000);
     }
+
     @Given("filling up the vacation form")
     public void filling_up_the_vacation_form() throws InterruptedException {
         PackagePage packagePage = new PackagePage();
@@ -47,6 +48,7 @@ public class Package_Tests {
 
 
     }
+
     @Given("verify with search result")
     public void verify_with_search_result() {
         ArrayList<String> strings = new ArrayList<>(driver.getWindowHandles());
@@ -54,7 +56,7 @@ public class Package_Tests {
         PackagePage packagePage = new PackagePage();
         int size = packagePage.getSearchResults_list().size();
         System.out.println(size);
-        Assert.assertTrue(size>0);
+        Assert.assertTrue(size > 0);
     }
 
     @And("increase room number to {int}")
@@ -65,12 +67,12 @@ public class Package_Tests {
         packagePage.getRooms_list().get(3).click();
         Thread.sleep(1000);
     }
+
     @Then("Rooms container should say “rooms” if room count is bigger than one")
     public void roomsContainerShouldSayRoomsIfRoomCountIsBiggerThanOne() {
         PackagePage packagePage = new PackagePage();
         String text = packagePage.getVacationRoom_number_element().getText();
         Assert.assertTrue(text.contains("rooms"));
     }
-
 
 }

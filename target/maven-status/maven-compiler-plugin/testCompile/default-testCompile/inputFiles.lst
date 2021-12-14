@@ -1,17 +1,17 @@
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\steps\sanity_tests\Choose_Languages.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\steps\Smoke_Tests.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\pages\HotelPage.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\utils\BrowserManager.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\base\TestRunner.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\steps\sanity_tests\HomePage_Steps.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\steps\regression_steps\Car_Tests.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\steps\regression_steps\Hotels_Test.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\pages\PackagePage.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\base\Hooks.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\steps\regression_steps\Flight_Tests.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\steps\regression_steps\Package_Tests.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\pages\FlightStatusPage.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\steps\regression_steps\FlightStatus_Tests.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\pages\FlightPage.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\pages\HomePage.java
-C:\Users\nkade\IdeaProjects\united_airline_bdd - demo1\src\test\java\com\unitedairline\pages\CarPage.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\steps\regression_steps\FlightStatus_Tests.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\base\TestRunner.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\pages\FlightStatusPage.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\pages\HotelPage.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\utils\BrowserManager.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\base\Hooks.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\pages\PackagePage.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\steps\regression_steps\Hotels_Test.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\pages\FlightPage.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\steps\sanity_tests\Choose_Languages.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\pages\CarPage.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\steps\regression_steps\Flight_Tests.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\steps\Smoke_Tests.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\pages\HomePage.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\steps\regression_steps\Package_Tests.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\steps\regression_steps\Car_Tests.java
+C:\Users\nkade\IdeaProjects\united_airline_bdddemo1\src\test\java\com\unitedairline\steps\sanity_tests\HomePage_Steps.java
